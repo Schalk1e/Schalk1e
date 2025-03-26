@@ -8,7 +8,7 @@ various AWS clusters and mentor new team members.
 I enjoy learning new languages and frameworks and have gotten my hands dirty in most cloud environments ☁️
 
 When I'm not working or writing small utility programs to make my life easier, you'll find me in the outdoors,
-making music, pruning a bonsai, doing (often bad) woodworking and DIY projects or watching Epic History on YouTube.
+making music, pruning a bonsai, exploring woodworking and DIY projects or watching Epic History on YouTube.
 
 I also sometimes try to play golf, but that's a different story.
 
